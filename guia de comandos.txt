@@ -15,3 +15,12 @@ git commit  -m "mensagem do commit"
 
 git push -u origin main
 	Envia o código para o GitHub
+
+git status
+	Verificar e informa statos do repositorio local
+
+git checkout -b 'nova_branch'
+	Sai da branch atual e cria uma nova
+
+git branch
+	Lista todas as branchs
