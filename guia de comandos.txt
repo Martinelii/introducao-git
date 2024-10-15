@@ -24,3 +24,12 @@ git checkout -b 'nova_branch'
 		** -b sinaliza que ira criar nova branch.
 git branch
 	Lista todas as branchs
+
+git merge 'nome_branch' 
+	Junta a branch selecionado, na atual(local onde está)
+
+git clone 'link_repositori-github'
+	Clona repositorio github
+
+cd --> Sai da pasta atual
+dir --> Lista conteudo da pasta atual
