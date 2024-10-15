@@ -21,6 +21,6 @@ git status
 
 git checkout -b 'nova_branch'
 	Sai da branch atual e cria uma nova
-
+		** -b sinaliza que ira criar nova branch.
 git branch
 	Lista todas as branchs
